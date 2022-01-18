@@ -32,6 +32,7 @@ var searchInsert = function(nums, target) {
             return mid;
         } else {
             right = mid;
+            
         }
        
    }
